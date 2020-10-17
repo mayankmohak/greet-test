@@ -19,6 +19,8 @@ jobs:
           issue_msg: |
             Hi, {{author}} here is a joke for you 
             {{joke}}
+            hit ajsdgk shadlh
+            adsjh.
           
           PR_msg: |
             Hi, {{author}} here is a joke for you 
