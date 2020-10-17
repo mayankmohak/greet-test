@@ -29,14 +29,11 @@ jobs:
             {{joke}}
                       
           PR_msg: |
-            
             Hi, {{author}},
-            Thanks for opening an issue :blue_heart: your issue will be seen by maintainers soon.
+            Thanks for opening an PR your PR will be mergerd soon if it doesn't has any conflist make sure you followed our Contributing guidlines in file.
             
-            Contributors :people_holding_hands:  like you make the open source community :earth_africa:  such an amazing place to learn :book: ,inspire :angel:, and create :art: .
-            
-            We will investigate :eyes:  and get back to you as soon as possible :+1: . Just make sure you have given us sufficient information :information_source:.
+            We will investigate :eyes:  and get back to you as soon as possible :+1: . Just make sure you have responed according to any of the prior issues.
             
             By that time enjoy this joke :point_down: , hope you like it :smile:
-            
+
             {{joke}}
