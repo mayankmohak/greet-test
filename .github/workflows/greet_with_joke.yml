@@ -27,7 +27,3 @@ jobs:
             By that time enjoy this joke :point_down: , hope you like it :smile:
             
             {{joke}}
-                      
-          PR_msg: |
-            (PR) Hi, {{author}} here is a joke for you 
-            {{joke}}
