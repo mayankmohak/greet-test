@@ -27,3 +27,12 @@ jobs:
             By that time enjoy this joke :point_down: , hope you like it :smile:
             
             {{joke}}
+
+          PR_msg: |
+            Hi, {{author}},
+            Thanks for opening an PR your PR will be mergerd soon if it doesn't has any conflist make sure you followed our Contributing guidlines in file.	
+            	
+            We will investigate :eyes:  and get back to you as soon as possible :+1: . Just make sure you have responed according to any of the prior issues.	
+            	
+            By that time enjoy this joke :point_down: , hope you like it :smile:	
+            {{joke}}
